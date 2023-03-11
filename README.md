@@ -59,7 +59,6 @@ On the left side of the home page the user can find their profile which includes
 
 
 # Links
-
 * [Deployed Application On Heroku](https://polar-sierra-99541.herokuapp.com/)
-* [Project Page On Github](https://github.com/HBurnton/let-me-ask-you-p3)
+* [Original Github Repo](https://github.com/HBurnton/let-me-ask-you-p3)
 * [Presentation Slidedeck](https://docs.google.com/presentation/d/1wgxFXTv_Lnm4xS2XxyMJ6vbQxWtMBtfOVxNdIGNlgRM/edit?usp=sharing)
